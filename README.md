@@ -12,7 +12,7 @@ The luncher needs to be in .exe so even if you get the .ahk file, you need to co
 Depending on how you edited my script and compiled it, you can set "BinaryPath" to where ever you want.
 
 ### Warning:
-Windows Defender might take an issue with teh compiled script, you have to tell it to ignore it. If you don't trust my compiled script then.... well the source code is there...
+Windows Defender might take an issue with the compiled script, you have to tell it to ignore it. If you don't trust my compiled script then.... well the source code is there...
 
 ## Editing the script for non default source port
 Line 34 must be the path to your Wolfensetein 3D and Line 40 must be the path to your Spear of Destiny which is... basically a folder in Base called m1. and after that the name of your source port. If you are putting the compiled file in the DOSBOX folder then you only need to repalce "ECWolf.exe" in the script with the name of the source port you are using.
