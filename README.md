@@ -5,7 +5,7 @@ A way to lunch Wolfenstein 3D with your desired Source port (Default is ECWolf, 
 One day I woke up to see a lot of old games that I've never played before are on sale on Steam and I bought them and Wolfenstein 3D was one of these games. After chenking the guides to run the game on a not embaracing reselution I realised taht teh guide is... well not exactly wrong but it's no longer aplicaple. After playing with the files, trying out a few theories I had and basically learning how it works I realized that the solution is quite simple and I made this script to make it work because I wanted to still be able to lunch Spear of Destiny and Wolfenstein 3D like DOSBOX could. Also keep in mind that depending on your sourceport and luck, you might not really need this. Infact you don't need thsi at all, this is just for convinience and I made it becasue I was lazy.
 
 ## Instalation
-###Requirements
+### Requirements
 ECWolf for both m1 folder in instalation file and base folder: https://maniacsvault.net/ecwolf/download.php
 A functional Windows instalation
 A functional Wolfenstein 3D instalation
