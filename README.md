@@ -14,6 +14,7 @@ A functional Wolfenstein 3D instalation
 
 A functional Spear of Destiny instalation
 
+### Description
 The launcher needs to be in .exe so even if you get the .ahk file, you need to compile it. When you did that either rename it to DOSBOX and put it in DOSBOX folder in the game folder and rename the original DOSBOX to something else or open launch_settings.cfg and change what "BinaryPath=" equates to Wolf3DLuncher.exe.
 
 You also need to have ECWolf installed in both Wolfenstein 3D and Spear of Destiny because I can not find launch commands for this Source port to laucnh these games directly and depending on my system it doesn;t even detect the other game hence teh double installation
