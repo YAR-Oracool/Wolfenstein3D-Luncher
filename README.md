@@ -6,7 +6,7 @@ One day I woke up to see a lot of old games that I've never played before are on
 
 ## Instalation
 
-The luncher needs to be in .exe so even if you get the .ahk file, you need to compile it. When you did that either rename it to DOSBOX and put it in DOSBOX folder in the game folder and rename the original DOSBOX to something else or open launch_settings.cfg and chang what "BinaryPath=" equates to Wolf3DLuncher.exe.
+The launcher needs to be in .exe so even if you get the .ahk file, you need to compile it. When you did that either rename it to DOSBOX and put it in DOSBOX folder in the game folder and rename the original DOSBOX to something else or open launch_settings.cfg and chang what "BinaryPath=" equates to Wolf3DLuncher.exe.
 
 ### Important:
 Depending on how you edited my script and compiled it, you can set "BinaryPath" to where ever you want.
